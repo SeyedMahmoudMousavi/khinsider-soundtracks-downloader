@@ -1,0 +1,17 @@
+{
+    "name": "codecrafted/khinsider-soundtracks-downloader",
+    "description": "you can download full mp3 album from downloads.khinsider.com website",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seyed Mahmoud Mousavi",
+            "email": "smousavi503@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "codecrafted/iron-elephant": "^2.1",
+        "codecrafted/url-extractor": "^1.1"                
+    }
+}
