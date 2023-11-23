@@ -1,0 +1,41 @@
+.bg-color-1,
+.bg-color-1-hover:hover {
+  background-color: #000000 !important;
+}
+.bg-color-2,
+.bg-color-2-hover:hover {
+  background-color: #14213d !important;
+}
+.bg-color-3,
+.bg-color-3-hover:hover {
+  background-color: #fca311 !important;
+}
+.bg-color-4,
+.bg-color-4-hover:hover {
+  background-color: #e5e5e5 !important;
+}
+.bg-color-5,
+.bg-color-5-hover:hover {
+  background-color: #ffffff !important;
+}
+
+.color-1,
+.color-1-hover:hover {
+  color: #000000 !important;
+}
+.color-2,
+.color-2-hover:hover {
+  color: #14213d !important;
+}
+.color-3,
+.color-3-hover:hover {
+  color: #fca311 !important;
+}
+.color-4,
+.color-4-hover:hover {
+  color: #e5e5e5 !important;
+}
+.color-5,
+.color-5-hover:hover {
+  color: #ffffff !important;
+}

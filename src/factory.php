@@ -23,6 +23,8 @@ if (is_get()) {
     $f = new File(__DIR__ . '/../exported/' . $fileName);
     $f->makeDir(__DIR__ . '/../exported/');
 
+    session('fileName', $fileName);
+
     /**
      * extract page link from site map
      */
